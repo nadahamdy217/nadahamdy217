@@ -6,7 +6,8 @@
 💭 Currently exploring Azure, data science, and machine learning operations!<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![Nada Hamdy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nadahamdy217&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![Nada Hamdy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nadahamdy217&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
