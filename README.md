@@ -24,7 +24,7 @@
 ## 🚀 My Projects
 - **[Plant Disease Detection Web Application](https://github.com/nadahamdy217/Plant-Disease-Detection)**: A web app using CNNs to detect plant diseases. Built with Python, Flask, MongoDB, and more.
 - **[Online Retail Data Analysis and Prediction](https://github.com/nadahamdy217/Online-Retail-Data-Analysis)**: Analyzed retail data and predicted customer behavior using ML algorithms.
-- **[Faculty Course Survey and Analytics](https://github.com/nadahamdy217/Faculty-Course-Survey-Analytics)**: Survey data analysis using regression methods to identify trends.
+- **[Faculty Course Survey and Analytics](https://github.com/nadahamdy217/University-subjects-opinion-survey-analysis-project)**: Survey data analysis using regression methods to identify trends.
 
 ---
 
