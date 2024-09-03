@@ -24,8 +24,8 @@
 
 ## 🚀 My Projects
 - **[Plant Disease Detection Web Application](https://github.com/nadahamdy217/Plant-Disease-Detection)**: A web app using CNNs to detect plant diseases. Built with Python, Flask, MongoDB, and more.
-- **[Data Computation & Similarity Measures in R](https://github.com/nadahamdy217/Data-Clustering)**: Analyzed retail data and predicted customer behavior using ML algorithms.
-- **[Faculty Course Survey and Analytics](https://github.com/nadahamdy217/University-subjects-opinion-survey-analysis-project)**: Survey data analysis using regression methods to identify trends.
+- **[ETL Transactions using Movies Data and pub/sub emulator and Docker](https://github.com/nadahamdy217/Movies-Data-ETL-using-Python-GCP)**: This repository focuses on extracting, transforming, and loading (ETL) movie data, utilizing a pub/sub emulator and Docker to simulate a real-time data processing environment.
+- **[Python with SQL Connection](https://github.com/nadahamdy217/depi_gov_eg_MS_DE/tree/main/5-%20Python%20with%20SQL%20Connection)**:  This project demonstrates how to connect Python to SQL databases.
 
 ---
 
