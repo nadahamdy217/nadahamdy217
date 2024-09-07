@@ -1,39 +1,27 @@
-# 👋 Hi, I'm Nada Hamdy!
-
-👩🏻‍💻 Data Engineering Trainee at the [Digital Egypt Pioneers Initiative (DEPI)](https://www.depi.gov.eg/)<br/>
-🎓 Studied [Computer and Data Science](https://www.alexu.edu.eg/) at Alexandria University, CGPA: 3.59 (A-)<br/>
-🔍 #learninginpublic while working on data engineering, SQL, and Python projects<br/>
-💭 Currently exploring Azure, data science, and machine learning operations!<br/>
-
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![Nada Hamdy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nadahamdy217&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+# 💫 About Me:
+👩🏻‍💻 Data Engineering Trainee at the Digital Egypt Pioneers Initiative (DEPI)<br>🎓 Studied Computer and Data Science at Alexandria University, CGPA: 3.59 (A-)<br>🔍 #learninginpublic while working on data engineering, SQL, and Python projects<br>💭 Currently exploring Azure, data science, and machine learning operations!
 
 
-# 💻 Tech Stack
-<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=ai)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<br/>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nada-hamdy-2265692a3/) 
 
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nadahamdy217&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nadahamdy217&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nadahamdy217&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nadahamdy217&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🚀 My Projects
-- **[Plant Disease Detection Web Application](https://github.com/nadahamdy217/Plant-Disease-Detection)**: A web app using CNNs to detect plant diseases. Built with Python, Flask, MongoDB, and more.
-- **[ETL Transactions using Movies Data and pub/sub emulator and Docker](https://github.com/nadahamdy217/Movies-Data-ETL-using-Python-GCP)**: This repository focuses on extracting, transforming, and loading (ETL) movie data, utilizing a pub/sub emulator and Docker to simulate a real-time data processing environment.
-- **[Python with SQL Connection](https://github.com/nadahamdy217/depi_gov_eg_MS_DE/tree/main/5-%20Python%20with%20SQL%20Connection)**:  This project demonstrates how to connect Python to SQL databases.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=nadahamdy217&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=nadahamdy217&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌱 Volunteering
-- **Data Entry Volunteer** at "Tejaraa ln Tabour" Saudi Voluntary Association: Focused on data collection, communication, and teamwork.
-
----
-
-## 📊 Nada Hamdy's GitHub Stats
-![Nada Hamdy's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nadahamdy217&layout=compact&theme=radical&hide_border=false)<br/>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
